@@ -1,3 +1,3 @@
 class Person 
-  def name  
-    @name
+  def name=(persons_name)  
+    @name = persons_name
